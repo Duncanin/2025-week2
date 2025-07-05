@@ -122,7 +122,7 @@ a {
 }
 
 .header .nav .logo a {
-  background-image: url("../assets/images/logo.svg");
+  background-image: url("../images/logo.svg");
   width: 129px;
   height: 46px;
   text-indent: 101%;
@@ -193,7 +193,7 @@ a {
 }
 
 .footer .nav .logo a {
-  background-image: url("../assets/images/logo.svg");
+  background-image: url("../images/logo.svg");
   width: 129px;
   height: 46px;
   text-indent: 101%;
