@@ -1,6 +1,8 @@
 *, *::before, *::after {
 	box-sizing: border-box;
 	// outline: 1px solid red;
+    letter-spacing: 0.05em;
+    
 }
 body {
     font-family:
@@ -29,7 +31,6 @@ body {
 
     line-height: 1.5;
     font-weight: 500;
-    letter-spacing: 0.05em;
 }
 .container {
     max-width: 1296px;
