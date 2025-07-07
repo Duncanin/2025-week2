@@ -47,9 +47,14 @@
 
 .card-row {
   flex-wrap: wrap;
+
+
 }
 .column {
   width: calc(100%/3);
+}
+.column:nth-child(n + 10) {
+  display: none;
 }
 .card {
   padding-left: 24px;
@@ -65,6 +70,8 @@
   font-weight: 700;
   font-style: medium;
   margin-bottom: 4px;
+  margin-top: 12px;
+  line-height: 1.2;
 }
 .product-price {
   font-style: medium;
